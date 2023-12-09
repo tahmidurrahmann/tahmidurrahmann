@@ -24,5 +24,5 @@
 <br />
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=tahmidurrahmann&theme=dark" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahmidurrahmann&theme=solarized_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahmidurrahmann&theme=radical" />
 </p>
