@@ -1,5 +1,4 @@
-<a href="https://www.facebook.com/tahmidurrahmann/"> <img src="https://i.ibb.co/QD9H707/Screenshot-2023-12-09-144348.png" /> </a>
-![Header](./your-header-image-name.png)
+<a href="https://www.facebook.com/tahmidurrahmann/"> <img src="https://i.ibb.co/rcYnKjJ/github-header-image.png" /> </a>
 
 ## 👀 Current overview
 
