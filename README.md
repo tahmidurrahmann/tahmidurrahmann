@@ -10,13 +10,13 @@
 <p align="center">
 <img src="https://i.ibb.co/k0wwS3z/HTML.png"/>
 <img src="https://i.ibb.co/3WKV4vK/css.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
+<img src="https://i.ibb.co/8247qLL/Java-Script.png"/>
+<img src="https://i.ibb.co/0yzRCQW/react.png"/>
+<img src="https://i.ibb.co/Bs3RD3Z/tailwind.png"/>
+<img src="https://i.ibb.co/1X22qrB/firebase.png"/>
+<img src="https://i.ibb.co/VM0Nntk/node.png"/>
+<img src="https://i.ibb.co/2NHC17p/express.png"/>
+<img src="https://i.ibb.co/BcgLQ58/mongo.png"/>
 </p><br/>
 
 ## :chart_with_upwards_trend: Current Stats
