@@ -2,7 +2,7 @@
 * I create dynamic and user-friendly interfaces, implement back-end functionality, and ensure seamless communication between the front-end and back-end components.
 * My focus is on delivering robust and scalable solutions, staying abreast of industry best practices, and continuously refining my skills to meet the evolving demands of web development.
 
-## :computer: Technologies that I know
+## :computer: Skills
 
 <br>
 <p align="center">
@@ -16,10 +16,3 @@
 <img src="https://i.ibb.co/2NHC17p/express.png"/>
 <img src="https://i.ibb.co/BcgLQ58/mongo.png"/>
 </p><br/>
-
-## :chart_with_upwards_trend: Current Stats
-
-<br />
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tahmidurrahmann&theme=dark" alt="GitHub Streak" />
-</p>
