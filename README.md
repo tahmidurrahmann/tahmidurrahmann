@@ -17,5 +17,4 @@ Focused on clean architecture, real-world performance, and getting things done.
 
 ## Socials
 
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/yourhandle)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/yourhandle)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/tahmidur-rahmann)
