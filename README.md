@@ -1,7 +1,3 @@
-<a href="https://www.facebook.com/tahmidurrahmann/">
-<img src="https://i.ibb.co/XDcNyjL/Screenshot-2023-12-13-184408.png" />
-</a>
-
 ## 👀 Current overview
 
 ### ⌨️ As a Frontend web developer, my primary role involves designing, building, and maintaining web applications using the MERN (MongoDB, Express.js, React, Node.js) technology stack. 
