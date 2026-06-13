@@ -2,8 +2,7 @@
 
 **Full-Stack Developer**
 
-Building and shipping web applications end-to-end — from database design to UI.
-Focused on clean architecture, real-world performance, and getting things done.
+Building and shipping web applications end-to-end from database design to UI. Focused on clean architecture, real-world performance, and getting things done.
 
 - 🎓 Studying in Computer Science and Engineering at Dhaka City College.
 - 🤝 Open to collaborating on interesting projects
