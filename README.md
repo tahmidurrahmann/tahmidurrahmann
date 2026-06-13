@@ -7,7 +7,7 @@ Building and shipping web applications end-to-end from database design to UI. Fo
 - 🎓 Studying in Computer Science and Engineering at Dhaka City College.
 - 🤝 Open to collaborating on interesting projects
 - ✉️ Reach me at **tahmidurahmann@gmail.com**
-- 🖥️  See my portfolio at tahmidurrahman.vercel.app
+- 🖥️  See my portfolio at **tahmidurrahman.vercel.app**
 
 ## 🖥️ Tech Stack
 
