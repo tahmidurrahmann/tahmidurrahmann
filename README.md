@@ -1,18 +1,10 @@
-### ⌨️ As a Frontend web developer, my primary role involves designing, building, and maintaining web applications using the MERN (MongoDB, Express.js, React, Node.js) technology stack. 
-* I create dynamic and user-friendly interfaces, implement back-end functionality, and ensure seamless communication between the front-end and back-end components.
-* My focus is on delivering robust and scalable solutions, staying abreast of industry best practices, and continuously refining my skills to meet the evolving demands of web development.
+### ⌨️ Full-Stack Developer | MERN Stack
 
-## :computer: Skills
+Building and shipping web applications end-to-end — from database design to UI.
+Focused on clean architecture, real-world performance, and getting things done.
 
-<br>
+## 🖥️ Tech Stack
+
 <p align="center">
-<img src="https://i.ibb.co/k0wwS3z/HTML.png"/>
-<img src="https://i.ibb.co/3WKV4vK/css.png"/>
-<img src="https://i.ibb.co/8247qLL/Java-Script.png"/>
-<img src="https://i.ibb.co/0yzRCQW/react.png"/>
-<img src="https://i.ibb.co/Bs3RD3Z/tailwind.png"/>
-<img src="https://i.ibb.co/1X22qrB/firebase.png"/>
-<img src="https://i.ibb.co/VM0Nntk/node.png"/>
-<img src="https://i.ibb.co/2NHC17p/express.png"/>
-<img src="https://i.ibb.co/BcgLQ58/mongo.png"/>
-</p><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,firebase&theme=dark" />
+</p>
