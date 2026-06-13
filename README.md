@@ -1,5 +1,3 @@
-## 👀 Current overview
-
 ### ⌨️ As a Frontend web developer, my primary role involves designing, building, and maintaining web applications using the MERN (MongoDB, Express.js, React, Node.js) technology stack. 
 * I create dynamic and user-friendly interfaces, implement back-end functionality, and ensure seamless communication between the front-end and back-end components.
 * My focus is on delivering robust and scalable solutions, staying abreast of industry best practices, and continuously refining my skills to meet the evolving demands of web development.
