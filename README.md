@@ -9,9 +9,8 @@ Building and shipping web applications end-to-end from database design to UI. Fo
 - ✉️ Reach me at **tahmidurahmann@gmail.com**
 - 🖥️ See my portfolio at [tahmidurrahman.vercel.app](https://tahmidurrahman.vercel.app)
 
-## Skills
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,firebase&theme=dark" />
+**Skills**
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,firebase&theme=dark" />
 
-## Socials
-
+**Socials**
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/tahmidur-rahmann)
