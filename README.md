@@ -10,10 +10,7 @@ Building and shipping web applications end-to-end from database design to UI. Fo
 - 🖥️ See my portfolio at [tahmidurrahman.vercel.app](https://tahmidurrahman.vercel.app)
 
 ## Skills
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,firebase&theme=dark" />
-</p>
 
 ## Socials
 
