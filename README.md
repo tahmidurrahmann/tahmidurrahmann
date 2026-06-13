@@ -11,7 +11,7 @@ Building and shipping web applications end-to-end from database design to UI. Fo
 
 **Skills**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwindcss,firebase&theme=dark" />
 
 **Socials**
 
